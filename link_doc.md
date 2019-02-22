@@ -15,3 +15,4 @@
 15. https://www.juniper.net/documentation/en_US/junos-space16.1/information-products/pathway-pages/junos-space-virtual-appliance-pwp.pdf
 
 syntax-based sql http://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-admin/syntaxbased_sqli_detect.htm
+Seamless PKI integration http://help.fortinet.com/fweb/583/Content/FortiWeb/fortiweb-admin/seamless_pki_integration.htm
