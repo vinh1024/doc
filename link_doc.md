@@ -13,3 +13,5 @@
 13. https://www.sophos.com/en-us/medialibrary/PDFs/documentation/Sophos-Firewall-Virtual-Appliance-Getting-Started-Guide.pdf
 14. http://docs.trendmicro.com/all/ent/iwsva/v6.5/en-us/iwsva_6.5_ig.pdf
 15. https://www.juniper.net/documentation/en_US/junos-space16.1/information-products/pathway-pages/junos-space-virtual-appliance-pwp.pdf
+
+syntax-based sql http://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-admin/syntaxbased_sqli_detect.htm
