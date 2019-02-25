@@ -17,3 +17,4 @@
 syntax-based sql http://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-admin/syntaxbased_sqli_detect.htm
 Seamless PKI integration http://help.fortinet.com/fweb/583/Content/FortiWeb/fortiweb-admin/seamless_pki_integration.htm
 OVF https://www.vmware.com/pdf/ovf_whitepaper_specification.pdf
+lxa https://www.usenix.org/legacy/publications/library/proceedings/lisa2000/full_papers/shaffer/shaffer_html/index.html
