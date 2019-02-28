@@ -18,3 +18,6 @@ syntax-based sql http://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-adm
 Seamless PKI integration http://help.fortinet.com/fweb/583/Content/FortiWeb/fortiweb-admin/seamless_pki_integration.htm
 OVF https://www.vmware.com/pdf/ovf_whitepaper_specification.pdf
 lxa https://www.usenix.org/legacy/publications/library/proceedings/lisa2000/full_papers/shaffer/shaffer_html/index.html
+buil linux distribution https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source
+vmWare ap https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vam/vmware-virtual-appliance-solutions-white-paper.pdf
+vmWare ap https://www.vmware.com/support/developer/studio/studio10/studio_userguide.pdf
